@@ -17,13 +17,12 @@ Blk• Design System is built on top of the much awaited Bootstrap 4. This makes
 
 ## Table of contents
 
-* [Quick Start](#quick-start)
+* [Getting Started](#getting-started)
 * [Example Pages](#example-pages)
 * [Documentation](#documentation)
 * [Tutorial](#tutorial)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
-* [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
 * [Useful Links](#useful-links)
 
