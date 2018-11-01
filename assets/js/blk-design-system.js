@@ -123,7 +123,9 @@ $(document).ready(function() {
   });
 
   // Activate Carousel
-  $('.carousel').carousel();
+  $('.carousel').carousel({
+    interval: false
+  });
 });
 
 // Methods

@@ -18383,15 +18383,8 @@ hr.line-deafult {
 }
 
 @media screen and (max-width: 768px) {
-  .section-javascript .carousel .carousel-inner {
-    max-height: 200px;
-  }
-  #carouselExampleIndicators {
-    margin-top: 0px;
-  }
   .section-examples .container .col-sm-6:nth-child(2) img {
     border: 1px solid #e14eca;
-    margin-top: 50px;
   }
 }
 
