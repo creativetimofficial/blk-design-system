@@ -19,6 +19,7 @@ Blk• Design System is built on top of the much awaited Bootstrap 4. This makes
 
 * [Getting Started](#getting-started)
 * [Example Pages](#example-pages)
+* [Deploy](#deploy)
 * [Documentation](#documentation)
 * [Tutorial](#tutorial)
 * [File Structure](#file-structure)
@@ -45,6 +46,11 @@ We wanted to fully display the power of this kit, so the kit comes packed with e
 + [Profile Page](http://demos.creative-tim.com/blk-design-system/examples/profile-page.html)
 + [Register Page](http://demos.creative-tim.com/blk-design-system/examples/register-page.html)
 + [Landing Page](http://demos.creative-tim.com/blk-design-system/examples/landing-page.html)
+
+## Deploy
+:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/blk-design-system&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 ## Documentation
 
